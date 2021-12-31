@@ -8,7 +8,7 @@
 							<span class="icon-text has-text-white is-large"><i class="fas fa-spinner fa-spin"></i></span>
 						</a>
 						<div class="navbar-item">
-							<a href="/">
+							<a href="https://github.com/Satomi2333/wikiProj">
 								<span class="icon has-text-white is-large">
 									<i class="fab fa-github"></i>
 								</span>
